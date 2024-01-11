@@ -1,0 +1,30 @@
+{
+  "name": "programaria_site_ada",
+  "version": "1.0.0",
+  "description": "Projeto PrograMaria de desenvolvimento",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PamelitaDandolo/programaria_site_ada.git"
+  },
+  "keywords": [
+    "front-end",
+    "code",
+    "women",
+    "Ada Lovelace",
+    "PrograMaria"
+  ],
+  "author": "Pamela Dándolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PamelitaDandolo/programaria_site_ada/issues"
+  },
+  "homepage": "https://github.com/PamelitaDandolo/programaria_site_ada#readme",
+  "dependencies": {
+    "index.js": "^0.0.3"
+  }
+}
